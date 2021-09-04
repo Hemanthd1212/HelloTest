@@ -1,6 +1,0 @@
-projectKey=com.hello.world:HelloTest
-serverUrl=http://localhost:9000
-serverVersion=7.0.0.36138
-dashboardUrl=http://localhost:9000/dashboard/index/com.hello.world:HelloTest
-ceTaskId=AXuahmEmmYs5gRq-Zagy
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXuahmEmmYs5gRq-Zagy
