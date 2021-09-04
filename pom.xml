@@ -71,8 +71,8 @@
     </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
-    <url>http://your-host:8081/repository/maven-releases/</url>
-	<!--  <url>http://localhost:8081/repository/myfirstrepo/</url>-->
+    <!--<url>http://your-host:8081/repository/maven-releases/</url>-->
+	url>http://localhost:8081/repository/myfirstrepo/</url>
     </repository>
   </distributionManagement>
   
