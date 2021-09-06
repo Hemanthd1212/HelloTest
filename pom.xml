@@ -1,7 +1,7 @@
-ging>
+</project>
 
   <name>HelloTest</name>
-  <url>http://localhost:8081/login.htm/repository/maven-central/</url>
+ <url>http://maven.apache.org</url>  
 
   <dependencies>
     <dependency>
