@@ -5,7 +5,7 @@
   <artifactId>HelloTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-
+<!--<sonar-maven-plugin.version>3.3.0.603</sonar-maven-plugin.version>-->
   <name>HelloTest</name>
 	<url>http://maven.apache.org</url>  
 <!-->
